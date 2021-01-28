@@ -1,0 +1,12 @@
+C:\Users\Мухаммад\Documents\Github\DZ-23.01\zadaniya5\zadaniya5\bin\Debug\zadaniya5.exe
+C:\Users\Мухаммад\Documents\Github\DZ-23.01\zadaniya5\zadaniya5\bin\Debug\zadaniya5.pdb
+C:\Users\Мухаммад\Documents\Github\DZ-23.01\zadaniya5\zadaniya5\bin\Debug\mscorlib.dll
+C:\Users\Мухаммад\Documents\Github\DZ-23.01\zadaniya5\zadaniya5\bin\Debug\ru\mscorlib.resources.dll
+C:\Users\Мухаммад\Documents\Github\DZ-23.01\zadaniya5\zadaniya5\bin\Debug\normidna.nlp
+C:\Users\Мухаммад\Documents\Github\DZ-23.01\zadaniya5\zadaniya5\bin\Debug\normnfc.nlp
+C:\Users\Мухаммад\Documents\Github\DZ-23.01\zadaniya5\zadaniya5\bin\Debug\normnfd.nlp
+C:\Users\Мухаммад\Documents\Github\DZ-23.01\zadaniya5\zadaniya5\bin\Debug\normnfkc.nlp
+C:\Users\Мухаммад\Documents\Github\DZ-23.01\zadaniya5\zadaniya5\bin\Debug\normnfkd.nlp
+C:\Users\Мухаммад\Documents\Github\DZ-23.01\zadaniya5\zadaniya5\obj\x86\Debug\zadaniya5.csprojResolveAssemblyReference.cache
+C:\Users\Мухаммад\Documents\Github\DZ-23.01\zadaniya5\zadaniya5\obj\x86\Debug\zadaniya5.exe
+C:\Users\Мухаммад\Documents\Github\DZ-23.01\zadaniya5\zadaniya5\obj\x86\Debug\zadaniya5.pdb
